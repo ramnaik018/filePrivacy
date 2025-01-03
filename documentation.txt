@@ -1,0 +1,7 @@
+File Hider Java Project:
+
+     In this project we basically implement hidden locker for Files.
+     That being said, we hide files from desktop and store it in a SQL database
+     after authenticating via email and OTP .
+     When ever we need to retrive those hidden files we can also unhide them from database
+     and make them reappear on desktop according to our preferences and needs.
